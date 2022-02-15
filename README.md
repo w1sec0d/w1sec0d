@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @w1sec0d
-- 👀 I’m interested in web and mobile development with React
 - 🌱 I’m currently learning React & React Native mostly
 - 📫 Educative project: https://linktr.ee/codewi
 
