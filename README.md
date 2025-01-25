@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=w1sec0d&label=Profile%20views&color=0e75b6&style=flat" alt="w1sec0d" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=w1sec0d" alt="w1sec0d" /></a> </p>
-
 - 🔭 I’m currently working on [ciclomart](https://github.com/w1sec0d/CicloMart_front)
 
 - 🌱 I’m currently learning **Fullstack web development with Helsinki University**
