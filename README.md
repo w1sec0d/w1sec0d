@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Fullstack web development**
 
-- 👨‍💻 All of my projects are available at [https://carlosrami.netlify.app/](https://carlosrami.netlify.app/)
-
 - 💬 Ask me about **Solving problems using web apps**
 
 - 📫 How to reach me **cramirezmun@unal.edu.co**
